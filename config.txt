@@ -1,1 +1,1 @@
-AppVersion = 2.0 (Local Update)gi
+AppVersion = 2.0 (Local Update)
